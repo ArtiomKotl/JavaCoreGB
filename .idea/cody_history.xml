@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <chats>
+      <list>
+        <chat>
+          <accountId value="VXNlcjoxMDAyNzg=" />
+          <internalId value="48f49fb1-789f-427e-998b-1b88b3eff235" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoxMDAyNzg=" />
+          <internalId value="a55c132f-e4a4-49b1-9f80-057c0ef8355a" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="как добавить изображение в файл .md" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Вот несколько способов добавить изображение в Markdown файл (.md):&#10;&#10;1. Используя HTML тег img:&#10;&#10;```&#10;&lt;img src=&quot;image.png&quot; alt=&quot;My Image&quot;&gt;&#10;```&#10;&#10;2. Используя Markdown синтаксис:&#10;&#10;```&#10;![My Image](image.png)&#10;```&#10;&#10;3. Добавив изображение в папку и ссылаясь на него относительным путем:&#10;&#10;```&#10;![My Image](images/image.png)&#10;```&#10;&#10;4. Используя внешнюю ссылку на изображение:&#10;&#10;```&#10;![My Image](https://example.com/images/image.png)&#10;```&#10;&#10;5. Добавив изображение как вложение в GitHub:&#10;&#10;```&#10;![My Image](/assets/image.png)&#10;```&#10;&#10;Главное - использовать правильный путь к изображению и альтернативный текст в скобках. Также можно добавлять параметры выравнивания и размера изображения." />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-02-18T20:11:28.7137496" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoxMDAyNzg=" />
+          <internalId value="f8410623-464a-4baa-b824-7e4d214a3ce2" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoxMDAyNzg=" />
+          <internalId value="1a4efc22-d564-46e9-b335-2666b1a69680" />
+        </chat>
+      </list>
+    </chats>
+  </component>
+</project>
